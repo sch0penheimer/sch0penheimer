@@ -40,8 +40,12 @@
                     max-width: 65px;
                     margin: 0px display: block;
                 }
-                #svg path {
+                .st0 {
                     fill: #cccccc;
+                }
+
+                .toStroke {
+                    stroke: #cccccc;
                 }
                 .text {
                     margin: 0 10% 0 0;
@@ -69,8 +73,11 @@
                     .text {
                         color: #333;
                     }
-                    #svg path {
+                    .st0 {
                         fill: #333;
+                    }
+                    .toStroke {
+                        stroke: #333;
                     }
                 }
                 @media (prefers-reduced-motion: reduce) {
@@ -84,10 +91,10 @@
                 <div class="box">
                     <svg id="svg" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0px" y="0px" style="enable-background:new 0 0 60 60" version="1.1" viewBox="0 0 60 60">
                         <!-- Outer Square with Rounded Corners -->
-                        <rect x="12" y="12" width="36" height="36" rx="8" ry="8" fill="none" stroke="#cccccc" stroke-width="2.5" />
+                        <rect x="12" y="12" width="36" height="36" rx="8" ry="8" fill="none" stroke-width="2.5" class="toStroke" />
                         
                         <!-- Inner Circle (Camera Lens) -->
-                        <circle cx="30" cy="30" r="9" fill="none" stroke="#cccccc" stroke-width="2.5"/>
+                        <circle cx="30" cy="30" r="9" fill="none" class="toStroke" stroke-width="2.5"/>
                         
                         <!-- Camera Dot (Upper Right) -->
                         <circle cx="42" cy="18" r="2" class="st0" />
