@@ -14,6 +14,7 @@
                     justify-content: center;
                     opacity: 0;
                     animation: fadeIn 1.2s linear 1.6s forwards;
+
                 }
 
                 @keyframes fadeIn {
