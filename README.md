@@ -10,7 +10,7 @@
     </a>
     <a href="https://github.com/sch0penheimer">
         <img src="assets/github.svg" width="19.5%" height=120 alt="GitHub sch0penheimer">
-        </a>
+    </a>
     <a href="https://www.instagram.com/haitvmm/">
         <img src="assets/instagram.svg" width="19.5%" height=120 alt="Instagram sch0penheimer">
     </a>
