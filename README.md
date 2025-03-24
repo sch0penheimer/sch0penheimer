@@ -1,8 +1,8 @@
 <div>
-    <a href="https://facebook.com/bidiouane.haitam">
+    <a href="facebook.com/bidiouane.haitam">
         <img src="assets/facebook.svg" width="19.5%" height=120 alt="Facebook sch0penheimer">
     </a>
-    <a href="https://www.linkedin.com/in/haitam-bidiouane/">
+    <a href="www.linkedin.com/in/haitam-bidiouane/">
         <img src="assets/linkedin.svg" width="19.5%" height=120 alt="LinkedIn sch0penheimer">
     </a>
     <a href="https://github.com/sch0penheimer">
