@@ -3,7 +3,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .container {
-                    font-family: 'Space Mono', monospace;;
+                    font-family: 'Space Mono', monospace;
                     container-type: inline-size;
                     width: 100%;
                     background-color: #0d1117;
