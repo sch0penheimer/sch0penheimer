@@ -5,6 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sch0penheimer&theme=graywhite&show_icons=true&hide_border=false&count_private=true&bg_color=555555&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=dddddd" alt="sch0penheimer's Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sch0penheimer&theme=graywhite&hide_border=false&background=555555&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=dddddd" alt="sch0penheimer's Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=sch0penheimer&theme=graywhite&show_icons=true&hide_border=false&count_private=true&bg_color=333333&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=dddddd" alt="sch0penheimer's Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sch0penheimer&theme=graywhite&hide_border=false&background=333333&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=dddddd" alt="sch0penheimer's Streak" height="165">
 </div>
